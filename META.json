@@ -59,7 +59,7 @@
    "provides" : {
       "Redis::Jet" : {
          "file" : "lib/Redis/Jet.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       }
    },
    "release_status" : "stable",
@@ -73,6 +73,6 @@
          "web" : "https://github.com/kazeburo/Redis-Jet"
       }
    },
-   "version" : "0.01",
+   "version" : "0.02",
    "x_authority" : "cpan:KAZEBURO"
 }

@@ -31,12 +31,12 @@ no_index:
 provides:
   Redis::Jet:
     file: lib/Redis/Jet.pm
-    version: '0.01'
+    version: '0.02'
 requires:
   perl: '5.008005'
 resources:
   bugtracker: https://github.com/kazeburo/Redis-Jet/issues
   homepage: https://github.com/kazeburo/Redis-Jet
   repository: git://github.com/kazeburo/Redis-Jet.git
-version: '0.01'
+version: '0.02'
 x_authority: cpan:KAZEBURO
